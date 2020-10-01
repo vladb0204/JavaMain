@@ -13,7 +13,7 @@ public class Main {
         }
 
         Arrays.sort(nums);
-
+        //Vlados lox
         System.out.println(nums[nums.length-1]);
     }
 }
