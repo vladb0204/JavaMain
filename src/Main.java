@@ -151,7 +151,7 @@ public class Main {
 
 // Task 6
 
-  public static void main(String[] args) {
+  public static void main_6(String[] args) {
 
     int n = sc.nextInt();
     int s = 2 * n;
